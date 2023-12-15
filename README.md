@@ -1,5 +1,5 @@
 ### my name is sadra
-<img href="./files/banner.png">
+<img href="https://github.com/sadranamavar/sadranamavar/blob/main/files/banner.png">
 
 <!--
 **sadranamavar/sadranamavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
