@@ -1,4 +1,4 @@
-### my name is sadra
+
 ![banner](https://github.com/sadranamavar/sadranamavar/blob/main/files/banner.png)
 
 <!--
